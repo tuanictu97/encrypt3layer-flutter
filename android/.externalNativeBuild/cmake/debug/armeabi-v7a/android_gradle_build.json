@@ -1,0 +1,41 @@
+{
+  "stringTable": {
+    "0": "/Users/tuanictu97/encrypt3layer/android/.externalNativeBuild/cmake/debug/armeabi-v7a",
+    "1": "--target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/tuanictu97/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/tuanictu97/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dnative_add_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC",
+    "2": "-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC  "
+  },
+  "buildFiles": [
+    "/Users/tuanictu97/encrypt3layer/android/CMakeLists.txt",
+    "/Users/tuanictu97/encrypt3layer/android/../../Library/Android/sdk/ndk/20.0.5594570/build/cmake/android.toolchain.cmake",
+    "/Users/tuanictu97/encrypt3layer/android/../../Library/Android/sdk/ndk/20.0.5594570/build/cmake/platforms.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/tuanictu97/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake --build /Users/tuanictu97/encrypt3layer/android/.externalNativeBuild/cmake/debug/armeabi-v7a --target clean"
+  ],
+  "libraries": {
+    "native_add-Debug-armeabi-v7a": {
+      "buildCommand": "/Users/tuanictu97/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake --build /Users/tuanictu97/encrypt3layer/android/.externalNativeBuild/cmake/debug/armeabi-v7a --target native_add",
+      "buildType": "debug",
+      "toolchain": "4071639237",
+      "abi": "armeabi-v7a",
+      "artifactName": "native_add",
+      "files": [
+        {
+          "src": "/Users/tuanictu97/encrypt3layer/android/../ios/Classes/native_add.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "output": "/Users/tuanictu97/encrypt3layer/example/build/encrypt3layer/intermediates/cmake/debug/obj/armeabi-v7a/libnative_add.so"
+    }
+  },
+  "toolchains": {
+    "4071639237": {
+      "cppCompilerExecutable": "/Users/tuanictu97/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "buildFiles": [
+    "/Users/tuanictu97/encrypt3layer/android/CMakeLists.txt",
+    "/Users/tuanictu97/encrypt3layer/android/../../Library/Android/sdk/ndk/20.0.5594570/build/cmake/android.toolchain.cmake",
+    "/Users/tuanictu97/encrypt3layer/android/../../Library/Android/sdk/ndk/20.0.5594570/build/cmake/platforms.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/tuanictu97/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake --build /Users/tuanictu97/encrypt3layer/android/.externalNativeBuild/cmake/debug/armeabi-v7a --target clean"
+  ],
+  "libraries": {
+    "native_add-Debug-armeabi-v7a": {
+      "artifactName": "native_add",
+      "buildCommand": "/Users/tuanictu97/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake --build /Users/tuanictu97/encrypt3layer/android/.externalNativeBuild/cmake/debug/armeabi-v7a --target native_add",
+      "abi": "armeabi-v7a",
+      "output": "/Users/tuanictu97/encrypt3layer/example/build/encrypt3layer/intermediates/cmake/debug/obj/armeabi-v7a/libnative_add.so"
+    }
+  }
+}

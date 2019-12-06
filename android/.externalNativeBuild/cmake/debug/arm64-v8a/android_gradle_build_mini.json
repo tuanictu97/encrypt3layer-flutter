@@ -1,0 +1,18 @@
+{
+  "buildFiles": [
+    "/Users/tuanictu97/encrypt3layer/android/CMakeLists.txt",
+    "/Users/tuanictu97/encrypt3layer/android/../../Library/Android/sdk/ndk/20.0.5594570/build/cmake/android.toolchain.cmake",
+    "/Users/tuanictu97/encrypt3layer/android/../../Library/Android/sdk/ndk/20.0.5594570/build/cmake/platforms.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/tuanictu97/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake --build /Users/tuanictu97/encrypt3layer/android/.externalNativeBuild/cmake/debug/arm64-v8a --target clean"
+  ],
+  "libraries": {
+    "native_add-Debug-arm64-v8a": {
+      "artifactName": "native_add",
+      "buildCommand": "/Users/tuanictu97/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake --build /Users/tuanictu97/encrypt3layer/android/.externalNativeBuild/cmake/debug/arm64-v8a --target native_add",
+      "abi": "arm64-v8a",
+      "output": "/Users/tuanictu97/encrypt3layer/example/build/encrypt3layer/intermediates/cmake/debug/obj/arm64-v8a/libnative_add.so"
+    }
+  }
+}

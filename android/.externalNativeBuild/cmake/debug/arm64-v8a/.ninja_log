@@ -1,0 +1,5 @@
+# ninja log v5
+0	46	1575603716	CMakeFiles/native_add.dir/Users/tuanictu97/encrypt3layer/ios/Classes/native_add.cpp.o	506c760e493add97
+46	90	1575603717	/Users/tuanictu97/encrypt3layer/example/build/encrypt3layer/intermediates/cmake/debug/obj/arm64-v8a/libnative_add.so	594ed860965abcb
+0	49	1575605833	CMakeFiles/native_add.dir/Users/tuanictu97/encrypt3layer/ios/Classes/native_add.cpp.o	506c760e493add97
+49	108	1575605833	/Users/tuanictu97/encrypt3layer/example/build/encrypt3layer/intermediates/cmake/debug/obj/arm64-v8a/libnative_add.so	594ed860965abcb
