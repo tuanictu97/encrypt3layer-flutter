@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/encrypt3layer.iml" filepath="$PROJECT_DIR$/encrypt3layer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/encrypt3layer_android.iml" filepath="$PROJECT_DIR$/android/encrypt3layer_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/android/encrypt3layer_example_android.iml" filepath="$PROJECT_DIR$/example/android/encrypt3layer_example_android.iml" />
+    </modules>
+  </component>
+</project>
